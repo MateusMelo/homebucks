@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homebucks/static/css/main.df57b9ca.css",
+    "main.js": "/homebucks/static/js/main.23e7fe37.js",
+    "index.html": "/homebucks/index.html",
+    "main.df57b9ca.css.map": "/homebucks/static/css/main.df57b9ca.css.map",
+    "main.23e7fe37.js.map": "/homebucks/static/js/main.23e7fe37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df57b9ca.css",
+    "static/js/main.23e7fe37.js"
+  ]
+}
